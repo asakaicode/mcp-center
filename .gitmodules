@@ -1,0 +1,3 @@
+[submodule "google-calendar-mcp-server"]
+	path = google-calendar-mcp-server
+	url = git@github.com:asakaicode/google-calendar-mcp-server.git
